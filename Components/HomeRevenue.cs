@@ -1,0 +1,25 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace WindowsFormsApp1.Components
+{
+    public partial class HomeRevenue : Form
+    {
+        public HomeRevenue()
+        {
+            InitializeComponent();
+        }
+
+        private void HomeRevenue_Load(object sender, EventArgs e)
+        {
+
+        }
+    }
+}

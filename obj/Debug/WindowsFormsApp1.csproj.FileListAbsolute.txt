@@ -1,0 +1,151 @@
+Z:\C#DOCS\Winform\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+Z:\C#DOCS\Winform\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+Z:\C#DOCS\Winform\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+Z:\C#DOCS\Winform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+Z:\C#DOCS\Winform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+Z:\C#DOCS\Winform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+Z:\C#DOCS\Winform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+Z:\C#DOCS\Winform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+Z:\C#DOCS\Winform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+Z:\C#DOCS\Winform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Pages.NavigationForm.resources
+Z:\C#DOCS\Winform\WindowsFormsApp1\bin\Debug\FontAwesome.Sharp.dll
+Z:\C#DOCS\Winform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+Z:\C#DOCS\Winform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+Z:\C#DOCS\Winform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Pages.FormLogon.resources
+Z:\C#DOCS\Winform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Pages.SignUp.resources
+Z:\C#DOCS\Winform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Components.Page1.resources
+Z:\C#DOCS\Winform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Components.Page2.resources
+Z:\C#DOCS\Winform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Components.Product.resources
+Z:\C#DOCS\Winform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Components.Dashboard.resources
+C:\Users\Admin\Downloads\WinformSharp-main (1)\WinformSharp-main\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Admin\Downloads\WinformSharp-main (1)\WinformSharp-main\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\Downloads\WinformSharp-main (1)\WinformSharp-main\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Admin\Downloads\WinformSharp-main (1)\WinformSharp-main\WindowsFormsApp1\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Admin\Downloads\WinformSharp-main (1)\WinformSharp-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\WinformSharp-main (1)\WinformSharp-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Admin\Downloads\WinformSharp-main (1)\WinformSharp-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Pages.FormLogon.resources
+C:\Users\Admin\Downloads\WinformSharp-main (1)\WinformSharp-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Pages.NavigationForm.resources
+C:\Users\Admin\Downloads\WinformSharp-main (1)\WinformSharp-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Pages.SignUp.resources
+C:\Users\Admin\Downloads\WinformSharp-main (1)\WinformSharp-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Admin\Downloads\WinformSharp-main (1)\WinformSharp-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\WinformSharp-main (1)\WinformSharp-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\WinformSharp-main (1)\WinformSharp-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Admin\Downloads\WinformSharp-main (1)\WinformSharp-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\Downloads\WinformSharp-main (1)\WinformSharp-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Admin\Downloads\WinformSharp-main (1)\WinformSharp-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Components.NhanVien.resources
+C:\Users\Admin\Downloads\WinformSharp-main (1)\WinformSharp-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Components.QuanLyCoffee.resources
+C:\Users\Admin\Downloads\WinformSharp-main (1)\WinformSharp-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Components.QuanLyKhachHang.resources
+C:\Users\Admin\Downloads\WinformSharp-main (1)\WinformSharp-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Components.Admin.resources
+C:\Users\Admin\Downloads\WinformSharp-main (1)\WinformSharp-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Components.Baocaodoanhthukd.resources
+C:\Users\Admin\Downloads\WinformSharp-main (1)\WinformSharp-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Components.Baocaodoanhthunv.resources
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\FontAwesome.Sharp.dll
+D:\working\Window-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\working\Window-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Pages.FormLogon.resources
+D:\working\Window-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Pages.NavigationForm.resources
+D:\working\Window-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Pages.SignUp.resources
+D:\working\Window-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\working\Window-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\working\Window-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\working\Window-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\working\Window-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\working\Window-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\CustomControls.dll
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\Bunifu.Dataviz.WinForms.dll
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\Bunifu.Licensing.dll
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\Bunifu.Dataviz.WinForms.xml
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\working\Window-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+D:\working\Window-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Components.HomeProduct.resources
+D:\working\Window-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Components.HomeEmployee.resources
+D:\working\Window-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Components.HomeCustomer.resources
+D:\working\Window-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Components.HomeSetting.resources
+D:\working\Window-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Components.pdBill.resources
+D:\working\Window-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Components.pdListProduct.resources
+D:\working\Window-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Components.pdListTable.resources
+D:\working\Window-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Components.HomeRevenue.resources
+D:\working\Window-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Components.rvnRevenueManager.resources
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+D:\working\Window-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Pages.Splash.resources
+D:\working\Window-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Components.elListEmployee.resources
+D:\working\Window-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Components.ctListCustomer.resources
+D:\working\Window-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Components.elEmployeePayroll.resources
+D:\working\Window-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Components.pdCamera.resources
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\BCrypt.Net-Core.dll
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\BCrypt.Net-Core.pdb
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\AForge.dll
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\AForge.Video.DirectShow.dll
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\AForge.Video.dll
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\AForge.xml
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\AForge.Video.xml
+D:\working\Window-main\WindowsFormsApp1\bin\Debug\AForge.Video.DirectShow.xml
+D:\working\Window-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Pages.NaviEmp.resources
